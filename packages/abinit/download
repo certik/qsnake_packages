@@ -1,0 +1,2 @@
+rm -rf src
+git clone git://github.com/certik/abinit.git src

@@ -1,0 +1,4 @@
+cd abinit
+./download
+cd ..
+tar cjf abinit.spkg abinit/

@@ -1,0 +1,3 @@
+cd src
+cmake .
+make -j10
